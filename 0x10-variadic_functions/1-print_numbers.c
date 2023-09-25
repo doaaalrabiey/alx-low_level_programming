@@ -1,7 +1,8 @@
 #include "variadic_functions.h"
 
 /**
- * main - check the code
+ * print_numbers - function that prints numbers,
+ * followed by a new line.
  * @separator: string
  * @n: argument
  * Return: void
