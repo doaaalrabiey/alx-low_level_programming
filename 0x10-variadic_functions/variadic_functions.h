@@ -3,6 +3,7 @@
 
 #include <stdarg.h>
 #include <stdio.h>
+
 /**
  * struct token - struct token
  * @token: format token
