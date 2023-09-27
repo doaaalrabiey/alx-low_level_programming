@@ -10,6 +10,7 @@
 void _puts(char *str)
 {
 	int i = 0;
+
 	while (str[i])
 	{
 		_putchar(str[i]);
@@ -80,7 +81,7 @@ int main(int argc, char const *argv[])
 
 	if (argc != 3)
 	{
-		_puts("Error");
+		_puts("Error ");
 		exit(98);
 	}
 	print_int(_atoi(argv[1]) * _atoi(argv[2]));
