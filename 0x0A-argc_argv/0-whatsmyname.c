@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print program name
+ * main - prints program name
  * @argc: int
- * @ argv: list
+ * @argv: list
  * Return: 0
  */
 
