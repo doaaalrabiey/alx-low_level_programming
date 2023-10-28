@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef _MAIN_H_
+#define _MAIN_H_
 #include <stdio.h>
 #include <string.h>
 
@@ -26,4 +26,4 @@ char *_strstr(char *haystack, char *needle);
 
 
 
-#endif /*MAIN_H*/
+#endif
