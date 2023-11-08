@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * iprint_dog - entry point
+ * print_dog - entry point
  * @d: dog to print
  * Return: void
  *
