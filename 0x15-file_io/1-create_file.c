@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * _strlen - entry point
+ * _strlen - return the length of a string
  * @s: string
- * Retyrn: string
+ *
+ * Return: integer length of string
  *
  */
 
